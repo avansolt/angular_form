@@ -1,0 +1,10 @@
+import { Component } from '@angular/core';
+
+
+@Component({
+  selector: 'myapp-root',
+  templateUrl: './CustomerApp.MasterView.html'
+})
+export class MasterComponent {
+
+}
